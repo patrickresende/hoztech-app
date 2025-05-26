@@ -1,0 +1,30 @@
+Observação: adicione apenas bibliotecas oficiais e que tenham relevância na comunidade python.
+
+Quero que melhore este projeto, rafatorando o código principal, adicionando normas de segurança cybernética de acordo com as normas da LGPD e GDPR(não adicione login).
+Adicione todas as novas informações e alterações devem ser incluidas no README.
+
+Implemente uma interface gráfica intuitiva, com botões que abrem novas janelas.
+
+O projeto está trabalhando com Tkinter, Tkinter TTK e Ttkbootstratp (pode ser alterado para o melhor sistema atual, voltado para aceleração e recursividade)
+
+O arquivo "all_employee.txt" deve permanecer e deverá ser criado um banco de dados, de modo que o usuário possa criar outros bancos de dados de acordo com a necessidade do uso e tipo de texto contido no documento. Um botão para seleção do banco de dados e outro ao lado para a criação de um novo banco de dados deve ser implementado.
+
+Novas funções devem ser adicionadas em outros arquivos .py de acordo com a estrutura do código, tornando-os organizados e fáceis de serem identificadas novas funções e seu respectivo uso.
+
+A função para disparo de e-mails deverá ser estruturada da seguinte forma:
+
+1. Abertura de uma interface de cadastro para novos funcionários. (CRUD?)
+2. Recursos para adicionar arquivos (das principais extensões de arquivos utilizadas ".doc .pdf .xls .xlsx) na base de dados de cada funcionário.
+3.a. Botão para importação e check box para seleção de arquivos para marcar os que devem ser enviados.
+
+3.b. idenficar o nome de usuário e se o documento corresponde com o destinatário final "e-mail" e "nome".
+
+4. Criação de logs SOMENTE de nomes não identificados nos documentos gerados, recortados.
+
+5. O documento recortado deverá ser identificado: se o resultado aparece em apenas uma página, corte uma página. Se o resultado buscado aparecem em mais de uma página, recorte e junte todas as páginas.
+
+6. Criação de uma verificação de nomes mais apurada por proximidade, palavras próximas ou sinônimos. (Poderá ter um checkbox se o usuário deseja que consulte um dicionário e atribua palavras próximas ou seja fiel ao que esteja contido no banco de dados selecionado)
+
+7. Criar uma janela onde deseja salvar o arquivo.
+
+Observação: adicione funcionabilidades importantes que não foram descritas.
