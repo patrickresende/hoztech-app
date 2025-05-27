@@ -1,9 +1,0 @@
-"__pychache__/"
-"*.pyc"
-"env/"
-
-".venv/" 
-".processor/" 
-"banco_de_dados/"
-
-"mail_config/"
