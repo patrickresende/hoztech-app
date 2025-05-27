@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Processador de Holerites
 
 Uma aplicação para processamento de holerites e outros documentos PDF, com recursos de identificação automatizada de funcionários, extração de informações e envio de e-mails.
